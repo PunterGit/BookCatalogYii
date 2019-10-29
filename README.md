@@ -1,6 +1,6 @@
-##Book catalog CRUD web application.
+## Book catalog CRUD web application.
 
-###Host and deploy.
+### Host and deploy.
 
 * Upload project on hosting.
 * Execute SSH command `composer update`.
